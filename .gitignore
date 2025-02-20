@@ -1,0 +1,11 @@
+screenshots_output/*
+weights/*
+vectorDB_llm_server/*
+test-dir/*
+resources/*
+nltk_data/*
+log/*
+assets/*
+.ollama/*
+.lightning_studio/*
+.idea/*
